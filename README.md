@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-<!--
-**Nancyhhibj/Nancyhhibj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 - 🔭 I’m currently working on Phisics-informed neural networks(PINNs) for Neural network
 - 🌱 I’m currently learning probability insight for PINNs
