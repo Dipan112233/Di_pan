@@ -1,5 +1,6 @@
-## Hi there 👋 my name is MinCanwen, and I am a master's student specializing in theoretical physics.
+# Hi there 👋 my name is MinCanwen
 <!-- Create a tabular data for blog posts-->
+I am a master's student specializing in theoretical physics.
 ### ✔️ I'm currently learning
 - AI for science
 - equation discovery
