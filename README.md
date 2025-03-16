@@ -1,22 +1,19 @@
 ## Hi there 👋
 <!-- Create a tabular data for blog posts-->
 ### ✔️ I'm currently learning
-- Quantum Computing
-- Devops
+- Theoritical physics
+- AI for science
 
 ### 💻 I'm working on
-- My portfolio website.
-- Stopmotion Creator
+- Physics-informed neural networks(PINNs) for equation discovery
 
-### 🌱 Goals for 2020
-- Complete #100DaysOfCode challenge.
-- Build 30+ projects.
-- Contribute to Open Source.
+### 🌱 Goals for 2025
+- finish a parper
+- get more theoritical understanding in PINNs
 
 ### 💭 Ask me about
-- Astronomy 🔭
-- Blockchain ⛓
-- Design 🎨
+- compress sensing
+- neural network
 - and anything...
 <!-- 
 ### 🌴 Fun facts
