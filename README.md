@@ -1,12 +1,24 @@
 ## Hi there 👋
+<!-- Create a tabular data for blog posts-->
+### ✔️ I'm currently learning
+- Quantum Computing
+- Devops
 
+### 💻 I'm working on
+- My portfolio website.
+- Stopmotion Creator
 
-- 🔭 I’m currently working on Phisics-informed neural networks(PINNs) for Neural network
-- 🌱 I’m currently learning probability insight for PINNs
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about pytorch, sparse regression
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 Goals for 2020
+- Complete #100DaysOfCode challenge.
+- Build 30+ projects.
+- Contribute to Open Source.
+
+### 💭 Ask me about
+- Astronomy 🔭
+- Blockchain ⛓
+- Design 🎨
+- and anything...
+<!-- 
+### 🌴 Fun facts
+- Trying to explore the mysteries.
+- Congratualtions on making through the shell.-->
