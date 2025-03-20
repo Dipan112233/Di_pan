@@ -7,22 +7,15 @@
 <div align="center"> <img height="137px" src="https://github-readme-stats.vercel.app/api?username=Nancyhhibj&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> </div>
 
 <!-- Create a tabular data for blog posts-->
-I am a master's student specializing in theoretical physics.
+I am a master's student specializing in cs.
 ### ✔️ I'm currently learning
-- AI for science
-- equation discovery
-
-### 💻 I'm working on
-- Physics-informed neural networks(PINNs) for equation discovery
+- Recommendation Algorithm
+- Objection detection
 
 ### 🌱 Goals for 2025
-- finish a parper
-- get more theoritical understanding in PINNs
+- learn techniques for fine-tuning large models
+- have an internship at a large company
 
-### 💭 Ask me about
-- compress sensing
-- neural network
-- and anything...
 <!-- 
 ### 🌴 Fun facts
 - Trying to explore the mysteries.
